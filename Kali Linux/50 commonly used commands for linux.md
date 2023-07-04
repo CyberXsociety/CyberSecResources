@@ -52,3 +52,8 @@
 50. `clear` - Clear the terminal screen.
 
 ***These are just a few examples of commonly used Linux commands. There are many more commands available, each with its own specific functionality. Exploring and mastering these commands will help you navigate and work effectively in a Linux environment.***
+
+----
+## ***Support***
+You can Follow [me](https://www.linkedin.com/in/bhavesh-pardhi-/) on LinkedIn or
+<br><br>[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/bhaveshpardhi)
