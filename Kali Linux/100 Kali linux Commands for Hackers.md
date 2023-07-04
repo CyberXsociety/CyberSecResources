@@ -102,3 +102,8 @@
 100. `lynis` - Security auditing tool.
 
 ***Remember to use these commands responsibly and within the bounds of authorized activities. Ethical considerations and proper permissions should always be observed when performing penetration testing or any other security-related tasks.***
+
+----
+## ***Support***
+You can Follow [me](https://www.linkedin.com/in/bhavesh-pardhi-/) on LinkedIn or
+<br><br>[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/bhaveshpardhi)
