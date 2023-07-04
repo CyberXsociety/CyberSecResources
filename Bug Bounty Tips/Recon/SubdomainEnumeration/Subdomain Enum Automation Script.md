@@ -1,6 +1,6 @@
 # ***Subdomain Enum Automation Script***
 
-![20220608-1.png](../../images/20220608-1.png)
+![20220608-1.png](https://github.com/CyberXsociety/CyberSecResources/blob/main/Bug%20Bounty%20Stories/images/20220608-1.png)
 </br>&nbsp;
 
 ----
