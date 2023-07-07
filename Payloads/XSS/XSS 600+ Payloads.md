@@ -5,7 +5,7 @@
 
 *XSS is a critical security vulnerability that allows attackers to inject malicious scripts into web applications, potentially leading to session hijacking, data theft, defacement, or other malicious activities. This repository aims to provide a valuable resource for the security community to test and secure web applications against XSS attacks.*
 
-**[Click here to explore the Bug Bounty XSS Collection](https://github.com/your-link-here)**
+**[Click here to explore the Bug Bounty XSS Collection](https://github.com/CyberXsociety/CyberSecResources/blob/main/Payloads/XSS/payloads.txt)**
 
 ## *Key Features:*
 
