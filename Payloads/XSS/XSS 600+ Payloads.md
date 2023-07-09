@@ -1,4 +1,4 @@
-# ***Bug Bounty XSS Collection - 600+ Payloads***
+## ***Bug Bounty XSS Collection - 600+ Payloads (Including Intruder 6600+ Payloads)***
 
 
 *Welcome to the Bug Bounty XSS Collection, a comprehensive repository of over 600 cross-site scripting (XSS) payloads, meticulously curated and organized to assist security researchers, developers, and bug bounty hunters in identifying and mitigating XSS vulnerabilities.*
@@ -6,6 +6,8 @@
 *XSS is a critical security vulnerability that allows attackers to inject malicious scripts into web applications, potentially leading to session hijacking, data theft, defacement, or other malicious activities. This repository aims to provide a valuable resource for the security community to test and secure web applications against XSS attacks.*
 
 **[Click here to explore the Bug Bounty XSS Collection](https://github.com/CyberXsociety/CyberSecResources/blob/main/Payloads/XSS/payloads.txt)**
+
+**[Click here to explore the 6600+ intruder XSS Collection](https://github.com/CyberXsociety/CyberSecResources/blob/main/Payloads/XSS/intruder-XSSpayload-list.txt)**
 
 ## *Key Features:*
 
