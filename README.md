@@ -30,4 +30,4 @@
 
 ----
 ## ***Support***
-You can Follow [me](https://www.linkedin.com/in/bhavesh-pardhi-/) on LinkedIn 
+You can Follow Us on Twitter/x
