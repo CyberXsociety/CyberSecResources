@@ -30,5 +30,4 @@
 
 ----
 ## ***Support***
-You can Follow [me](https://www.linkedin.com/in/bhavesh-pardhi-/) on LinkedIn or
-<br><br>[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/bhaveshpardhi)
+You can Follow [me](https://www.linkedin.com/in/bhavesh-pardhi-/) on LinkedIn 
